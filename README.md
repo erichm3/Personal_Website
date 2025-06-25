@@ -41,7 +41,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-
+### Features
 
 ### Built With
 * [![Next][Next.js]][Next-url]
@@ -62,6 +62,7 @@ npm install npm@latest -g
 2. Clone the app
     ```sh
     git clone https://github.com/erichm3/personal_website.git
+    cd your-website
     ```
 3. Install NPM packages
     ```sh
@@ -76,12 +77,11 @@ npm install npm@latest -g
     git remote set-url origin github_username/repo_name
     git remote -v # confirm the changes
     ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<!-- ROADMAP -->
-## Roadmap
+6. Start the Development Server
+    ```sh
+        npm run dev
+    ```
+7. Then visit http://localhost:3000 in your browser
 
 <!-- CONTACT -->
 ## Contact
@@ -89,9 +89,6 @@ npm install npm@latest -g
 Emma Richmond  - richmond.emma.g@gmail.com
 
 Project Link: [https://github.com/erichm3/personal_website](https://github.com/erichm3/personal_website)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
 <p align="right">(<a href="#read-me-top">back to top</a>)</p>
 
